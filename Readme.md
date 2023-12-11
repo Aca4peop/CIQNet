@@ -97,4 +97,3 @@ Run the CrossSetEval.py
 
 zyhu AT bit DOT com
 
-lxliu  AT bit DOT com
