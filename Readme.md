@@ -12,7 +12,7 @@ Source code for paper  Omnidirectional  Video Quality Assessment with Causal Int
 
 - The following Python dependencies are recommended:
 
-  '''
+  ```
   torch==2.0.1+cu118
   torchvision==0.15.2+cu118
   scikit-video
@@ -21,7 +21,7 @@ Source code for paper  Omnidirectional  Video Quality Assessment with Causal Int
   numpy
   scipy
   einops
-  '''
+  ```
 
   
 
