@@ -95,5 +95,5 @@ Run the CrossSetEval.py
 
 # Contact
 
-zyhu AT bit DOT com
+zyhu AT bit DOT edu DOT cn
 
