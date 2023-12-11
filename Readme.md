@@ -52,7 +52,7 @@ Click the hyper links to see the details of these datasets.
 ​		1. Command line
 
 ```bash
-python CIQNet.py --video_path test.mp4
+python CIQNet.py test.mp4
 ```
 
 2. Python
