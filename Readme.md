@@ -12,14 +12,16 @@ Source code for paper  Omnidirectional  Video Quality Assessment with Causal Int
 
 - The following Python dependencies are recommended:
 
-  `torch==2.0.1+cu118
-  torchvision==0.15.2+cu118`
-  `scikit-video`
-  `scikit-image`
-  `tqdm`
-  `numpy`
-  `scipy`
-  `einops`
+  '''
+  torch==2.0.1+cu118
+  torchvision==0.15.2+cu118
+  scikit-video
+  scikit-image
+  tqdm
+  numpy
+  scipy
+  einops
+  '''
 
   
 
@@ -31,7 +33,7 @@ Click the hyper links to see the details of these datasets.
 
 1. [ODV-VQA](https://github.com/Archer-Tatsu/VQA-ODV)
 
-2. [JVQD]([Judder Visual Quality Assessment Dataset (JVQD) (etrovub.be)](http://data.etrovub.be/qualitydb/judder-vqa/))
+2. [JVQD](http://data.etrovub.be/qualitydb/judder-vqa/)
 
 3. [SVQD](https://github.com/Telecommunication-Telemedia-Assessment/360_streaming_video_quality_dataset)
 
